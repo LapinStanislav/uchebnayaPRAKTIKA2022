@@ -1,0 +1,59 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 53px;
+
+}
+
+.header__logo-wrapper {
+    margin-left: 110px;
+}
+
+.header__logo-img {}
+
+.header__ssilka {}
+
+.header__menu {
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__spisok {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 42px;
+
+}
+
+.header__li {
+    text-decoration: none;
+}
+
+.header_ssilka1 {
+    text-decoration: none;
+    color: white;
+}
+
+.header_ssilka2 {
+    text-decoration: none;
+    color: white;
+}
+
+.header_ssilka3 {
+    text-decoration: none;
+    color: white;
+}
+
+.header_ssilka1:hover {
+    text-decoration: underline;
+}
+
+.header_ssilka2:hover {
+    text-decoration: underline;
+}
+
+.header_ssilka3:hover {
+    text-decoration: underline;
+}
