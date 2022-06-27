@@ -6,6 +6,19 @@
 
 }
 
+.background111 {
+    position: absolute;
+    width: 720px;
+    height: 696px;
+    left: 720px;
+    top: -2px;
+    background-image: url(/img/index-background-desktop.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+
+}
+
 .header__logo-wrapper {
     margin-left: 110px;
 }
