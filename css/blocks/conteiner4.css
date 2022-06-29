@@ -1,0 +1,221 @@
+.conteiner__4 {
+    display: flex;
+}
+
+.zagolovok__text2 {
+    position: absolute;
+    text-align: center;
+    width: 325px;
+    height: 60px;
+    left: 300px;
+    top: 1662px;
+}
+
+.zagolovok__t2 {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 60px;
+    color: #000000;
+}
+
+.maxblock__1 {
+    position: absolute;
+    width: 1900px;
+    height: 462px;
+    left: 0px;
+    top: 1798px;
+    background: #F2F2F2;
+}
+
+
+
+.maxblock__11 {
+    position: absolute;
+    width: 436px;
+    height: 317px;
+    left: 300px;
+    top: 70px;
+    border: 3px solid #CDCDCD;
+    border-radius: 10px;
+}
+
+
+.main__text {
+    position: absolute;
+    width: 420px;
+    height: 96px;
+    left: 10px;
+    top: 30px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #444444;
+}
+
+
+
+.maxblock__5kg {
+    position: absolute;
+    width: 162px;
+    height: 77px;
+    left: 300px;
+    top: 250px;
+}
+
+.maxblock__5gram {
+    position: absolute;
+    left: 35.19%;
+    right: 35.19%;
+    top: 19.48%;
+    bottom: 32.47%;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 37px;
+    text-align: center;
+    color: #000000;
+}
+
+.maxblock__ves {
+    position: absolute;
+    left: 330px;
+    right: 33px;
+    top: 310px;
+    bottom: 0px;
+
+}
+
+.maxblock__snijenievesa {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 14px;
+    color: #444444;
+}
+
+.maxblock__60day {
+    position: absolute;
+    width: 162px;
+    height: 77px;
+    left: 530px;
+    top: 250px;
+}
+
+.maxblock__days {
+    position: absolute;
+    left: 18.52%;
+    right: 18.52%;
+    top: 19.48%;
+    bottom: 32.47%;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 37px;
+    text-align: center;
+    color: #000000;
+}
+
+.maxblock__longtime {
+    position: absolute;
+    left: 550px;
+    right: 33px;
+    top: 310px;
+    bottom: 0px;
+}
+
+.maxblock__time {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 14px;
+    color: #444444;
+}
+
+.maxblock__zatrati {
+    position: absolute;
+    text-transform: uppercase;
+    width: 174px;
+    height: 20px;
+    left: 315px;
+    top: 400px;
+}
+
+.maxblock__pitanie {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.maxblock__cena {
+    position: absolute;
+    text-transform: uppercase;
+    width: 174px;
+    height: 20px;
+    left: 570px;
+    top: 400px;
+}
+
+.maxblock__cennik {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.cot {
+    position: absolute;
+    width: 690px;
+    height: 656px;
+    left: 1100px;
+    top: 1650px;
+}
+
+.bili__1 {
+    position: absolute;
+    left: 1px;
+    right: 629px;
+    top: 550px;
+    bottom: 613px;
+
+
+}
+
+.stalo__1 {
+    position: absolute;
+    left: 482px;
+    right: 103px;
+    top: 550px;
+    bottom: 613px;
+
+}
+
+.slider__1 {
+    position: absolute;
+    width: 428px;
+    height: 34px;
+    left: 1150px;
+    top: 2190px;
+}
+
+.bili__1:hover {
+    transform: scale(1.05);
+    transition: 0.3s;
+}
+
+.stalo__1:hover {
+    transform: scale(1.05);
+    transition: 0.3s;
+}
