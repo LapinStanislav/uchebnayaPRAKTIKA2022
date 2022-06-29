@@ -1,0 +1,82 @@
+.conteiner__5 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.map__1 {
+    position: absolute;
+    width: 1440px;
+    height: 400px;
+    left: 300px;
+    top: 2260px;
+    background-image: url(/img/Rectangle-16.jpg);
+    opacity: 1;
+    transition: 0.3s;
+}
+
+.info {
+    position: absolute;
+    left: 7.64%;
+    right: 52.78%;
+    top: 23.75%;
+    bottom: 26%;
+    background: #FFFFFF;
+}
+
+.info__text1 {
+    position: absolute;
+    height: 83px;
+    width: 163px;
+    left: 70px;
+    top: 65px;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 21px;
+    text-transform: uppercase;
+    color: #111111;
+}
+
+.info__text2 {
+    position: absolute;
+    height: 83px;
+    width: 163px;
+    left: 300px;
+    top: 60px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #444444;
+}
+
+.info__text3 {
+    position: absolute;
+    height: 83px;
+    width: 163px;
+    left: 300px;
+    top: 110px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #444444;
+}
+
+.map__metka {
+    position: absolute;
+    height: 106px;
+    width: 113px;
+    left: 908px;
+    top: 131px;
+    border-radius: 0px;
+}
+
+.map__1:hover {
+    opacity: 0.5;
+    transition: 0.3s;
+}

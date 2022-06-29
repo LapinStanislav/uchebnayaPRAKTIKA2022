@@ -1,5 +1,7 @@
 .conteiner__4 {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .zagolovok__text2 {
@@ -29,8 +31,6 @@
     background: #F2F2F2;
 }
 
-
-
 .maxblock__11 {
     position: absolute;
     width: 436px;
@@ -40,7 +40,6 @@
     border: 3px solid #CDCDCD;
     border-radius: 10px;
 }
-
 
 .main__text {
     position: absolute;
@@ -55,8 +54,6 @@
     line-height: 24px;
     color: #444444;
 }
-
-
 
 .maxblock__5kg {
     position: absolute;
