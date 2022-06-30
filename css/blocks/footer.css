@@ -1,0 +1,48 @@
+.footer {
+    display: flex;
+    margin-left: -50px;
+    margin-top: 2650px;
+    width: 1930px;
+    height: 150px;
+}
+
+.main5 {
+    display: flex;
+    width: 1930px;
+    height: 150px;
+    justify-content: space-between;
+    background: #F2F2F2;
+}
+
+.footer1 {
+    width: 350px;
+    height: 100px;
+}
+
+.logo21 {
+    display: flex;
+    justify-content: center;
+    margin: 70px;
+}
+
+.footer2 {
+    display: flex;
+    margin-left: -10px;
+    width: 350px;
+    height: 100px;
+    justify-content: space-evenly;
+
+}
+
+.vk {
+    margin-top: 70px;
+}
+
+.footer3 {
+    width: 350px;
+    height: 100px;
+}
+
+.html {
+    margin-top: 70px;
+}
